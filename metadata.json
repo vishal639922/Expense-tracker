@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "A responsive personal expense tracker to add, remove, and filter expenses, manage budgets, and view spending statistics with dynamic visual charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
